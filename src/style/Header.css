@@ -1,0 +1,24 @@
+.header {
+  background-color: #ff7f50;
+  padding: 20px;
+  text-align: center;
+  color: white;
+}
+
+.nav-links {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.nav-links li {
+  margin: 0 15px;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  font-size: 1.2em;
+}
