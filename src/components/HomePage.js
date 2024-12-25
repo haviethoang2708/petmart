@@ -8,7 +8,7 @@ import Login from './Login';
 function HomePage() {
   return (
     <div>
-        <AboutUs />
+      
     </div>
   );
 }

@@ -7,7 +7,7 @@ function Login() {
   return (
     <section className="login">
       <div className="login-container">
-        <h2>{isRegister ? 'Register' : 'Login'}</h2>
+        <h2>{isRegister ? 'Đăng Ký' : 'Đăng nhập'}</h2>
         <form className="login-form">
           {isRegister && (
             <div className="form-group">
